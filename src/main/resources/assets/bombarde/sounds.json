@@ -1,0 +1,8 @@
+{
+  "red_sun": {
+    "subtitle": "sounds.bombarde.red_sun",
+    "sounds": [
+      "bombarde:red_sun"
+    ]
+  }
+}
